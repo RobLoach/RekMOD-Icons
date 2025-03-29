@@ -1,2 +1,8 @@
-# Warfare-Expanded-Unciv-Bucketeer
-A massive unit expansion mod for Unciv G&amp;K Ruleset!
+# RekMOD Icons
+
+Icons for [RekMOD](https://github.com/ravignir/RekMOD).
+
+## Credits
+
+- [Civilization V Customisation Wiki](https://civilization-v-customisation.fandom.com)
+- [GitHub Lekmod Files](https://github.com/EnormousApplePie/Lekmod)
